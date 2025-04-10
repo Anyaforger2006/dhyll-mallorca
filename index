@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Student Registration </title>
+ <style>
+body{ 
+background-color: orange
+
+}
+
+h1{
+front-size: 30px;
+}
+
+
+
+</style>
+
+</head>
+<body>
+  
+<form>
+<center>
+
+<h1>Student Registration</h1>
+
+<label>Student ID:</label> <input id ="id number"><br><br>
+ 
+<label>First Name:</label> <input id  ="first name"><br><br>
+
+<label>Last Name:</label> <input id ="last name"><br><br>
+
+<label>Course:</label> <input label ="course"></input><br><br>
+ 
+<label>Birthdatwe:</label> <input type="date"></input><br><br> 
+
+<label>Mobile Number:</label> <input type="text"></input><br><br>
+
+<label>Username:</label> <input type="label"> </input><br><br>
+
+<label>Password:</label> <input type="text"> </input><br><br>
+
+
+<button><a href="homepage.html">Register</button>
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+</body>
+</html> 
+ 
+
+
+
+
+
+
+
+
